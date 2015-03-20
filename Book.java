@@ -1,4 +1,4 @@
-Enter f /*
+/*    
     Book.java ~ The Book Class holds String variables of auhtor,isbn, and
                 title.
                 Class will store multiple author names in a  LinkedList<String> data structure
@@ -154,18 +154,3 @@ public class Book
     }
 
 }
-      
-
-
-
-
-
-
-
-
- 
-
-
-
-
-      ile contents here
